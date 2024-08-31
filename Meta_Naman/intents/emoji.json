@@ -1,0 +1,39 @@
+{
+  "id": "b07398e8-685e-432f-8e1c-c9fe46385760",
+  "name": "emoji",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks for the Reaction💕",
+            "Uh are real, Uh reacted...😂🤣",
+            "After a long time, someone reacted❤️",
+            "After ages someone reacted😍",
+            "😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
