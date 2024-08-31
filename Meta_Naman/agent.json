@@ -1,0 +1,35 @@
+{
+  "description": "Meta_Naman_Chatbot is a Telegram bot that engages users in natural conversations while offering practical utilities. It provides real-time currency conversion, allowing users to easily switch between different currencies. Additionally, the bot delivers detailed weather updates for any day and location, helping with trip planning and event preparation. Meta_Naman_Chatbot combines conversational ease with useful features, making it a versatile tool on Telegram.",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "Meta_Naman",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Asia/Almaty",
+  "webhook": {
+    "url": "https://7ffd-106-201-208-85.ngrok-free.app/",
+    "username": "",
+    "headers": {},
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "85a1de5e4ffa46558c8617848f595ab7",
+  "analyzeQueryTextSentiment": true,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}
